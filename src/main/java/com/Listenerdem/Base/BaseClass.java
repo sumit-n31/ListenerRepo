@@ -37,4 +37,14 @@ public class BaseClass {
 
 	}
 
+	public void m4() {
+		// TODO Auto-generated method stub
+
+	}
+
+	private void m5() {
+		// TODO Auto-generated method stub
+
+	}
+
 }
