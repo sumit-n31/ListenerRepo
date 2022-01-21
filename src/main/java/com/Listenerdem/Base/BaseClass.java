@@ -8,6 +8,9 @@ import org.testng.annotations.BeforeMethod;
 import com.Listenerdem.UIKeywords.UIKeywords;
 
 public class BaseClass {
+	
+	public void m6(){
+	}
 
 	UIKeywords ui = UIKeywords.getInstance();
 
